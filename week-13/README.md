@@ -20,7 +20,3 @@ Join a live Microsoft Teams meeting to share your screen and present a single, i
    - Share your screen and walk through the project flow
    - Discuss technical challenges and solutions
    - Answer questions and gather feedback
-
-### Resources
-- Microsoft Teams Guide: https://support.microsoft.com/teams
-- Presentation Tips: https://www.presentationzen.com/
