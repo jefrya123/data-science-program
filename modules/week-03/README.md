@@ -17,7 +17,9 @@ Dive deeper into Python and build your first web app with Streamlit.
    - Displays a chart and data table
    - Includes sidebar filters
 3. Deploy your app locally and commit code.
+4. Lint all your code with pylint.
 
 ### Resources
 - [FreeCodeCamp Streamlit Tutorial](https://www.youtube.com/watch?v=ZZ4B0QUHuNc&list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE)
 - Streamlit Docs: https://docs.streamlit.io/
+- Pylint: https://www.pylint.org/
